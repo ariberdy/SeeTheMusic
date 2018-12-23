@@ -3,7 +3,8 @@
 
     Multi-block block comment."""
 
-import urllib.request
+import urllib
+
 
 def download_bowie_wav():
     """All Functions have comments like this"""
